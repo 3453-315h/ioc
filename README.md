@@ -1,2 +1,1 @@
-# ioc
-Indicators of Compromise
+# Indicators of Compromise
